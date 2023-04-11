@@ -1,4 +1,4 @@
 # Altyapının Videosu
-Yakında...
+https://youtu.be/gIpFo-uUPYM
 # Kurulum 
 `npm i discord.js`
